@@ -1,6 +1,6 @@
 ## Olá!!! Eu sou o Samuel Borges, estudante de programação e tecnologia!!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelbrgz&theme=shadow_blue&show_icons=true)](https://github.com/samuelbrgz/github-readme-stats.vercelapp)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelbrgz&theme=shadow_blue)](https://github.com/samuelbrgz/github-readme-stats.vercelapp)
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
